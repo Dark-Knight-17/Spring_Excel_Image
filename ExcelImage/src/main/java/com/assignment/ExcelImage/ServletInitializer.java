@@ -1,4 +1,4 @@
-package com.appoctet.ExcelImage;
+package com.assignment.ExcelImage;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
