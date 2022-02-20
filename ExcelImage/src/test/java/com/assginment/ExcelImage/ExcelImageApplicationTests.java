@@ -1,4 +1,4 @@
-package com.appoctet.ExcelImage;
+package com.assginment.ExcelImage;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
